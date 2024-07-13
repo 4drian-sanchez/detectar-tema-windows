@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+h1::first-letter {
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: #f3f4f6c0;
+}
+
+.bg-gray-100 {
+    background-color: #f3f4f6;
+}
+
+.bg-slate-900 {
+    background-color: #0f172a;
+}
+
+.text-gray-100 {
+    color: #f3f4f6;
+}
+
+.text-slate-900 {
+    color: #0f172a;
+}
